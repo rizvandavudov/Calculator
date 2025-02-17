@@ -39,11 +39,8 @@ This app performs basic arithmetic operations and ensures a smooth user experien
 
 
 
-
 ## 📥 **Installation and Setup**
 ### **1. Clone the Repository**
-
-
 
 
  
@@ -58,35 +55,15 @@ Click "Run" (▶) Button to launch the app
 
 
 
-
 ✨ Future Enhancements
  Add Advanced Mathematical Operations (Square, Square Root, Percentage)
  Implement Dark Mode
  Improve UI animations and transitions
 
  
-
-
 📝 Author
 👤 Rizvan Davudov
 📧 rizvan.davudov@yahoo.com | 🔗 LinkedIn   https://www.linkedin.com/in/rizvan-davudov-8b995b325/
 
-
-
-
 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-
----
-
-
-✅ **Project Overview** – Explains what the app does  
-✅ **Features** – Lists the key functions of the calculator  
-✅ **Installation Guide** – Steps to run the app  
-✅ **Technologies Used** – Mentions Kotlin, Android Studio, and UI frameworks  
-✅ **Future Enhancements** – Shows what improvements can be made  
-✅ **Screenshots Section** – You can add images to make the repo look better  
-✅ **Project Structure** – Helps developers understand file organization  
-✅ **Author Information** – Your contact details  
 
