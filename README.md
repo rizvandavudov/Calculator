@@ -79,7 +79,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-### **📌 What This README Includes**
+
 ✅ **Project Overview** – Explains what the app does  
 ✅ **Features** – Lists the key functions of the calculator  
 ✅ **Installation Guide** – Steps to run the app  
