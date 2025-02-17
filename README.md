@@ -25,12 +25,13 @@ This app performs basic arithmetic operations and ensures a smooth user experien
 
 
 ## 📸 Screenshots
-c
 
-### 🔹 Calculation Result (Portrait Mode)
-<img src="result_screen.jpeg" width="300">
 
 ### 🔹 Main Screen
+<img src="main_screen2.jpeg" width="300">
+
+
+### 🔹 Calculation Result (Portrait Mode)
 <img src="main_screen.jpeg" width="300">
 
 ### 🔹 Calculation Result
